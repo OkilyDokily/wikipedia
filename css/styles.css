@@ -1,0 +1,19 @@
+.well {
+  padding: 0;
+}
+
+
+
+.welcome h3 {
+  margin-top: 5px;
+}
+
+.featured p:nth-of-type(odd) {
+  background-color: lightgreen;
+  border: 1px solid grey;
+}
+
+.blue {
+  background-color: lightskyblue;
+  border: 1px solid grey;
+}
