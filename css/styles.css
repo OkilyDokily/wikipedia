@@ -11,11 +11,13 @@
 .featured p:nth-of-type(odd) {
   background-color: lightgreen;
   border: 1px solid grey;
+  margin-top: 5px;;
 }
 
 .blue {
   background-color: lightskyblue;
   border: 1px solid grey;
+  margin-top: 5px;
 }
 
 .featured,.news {
