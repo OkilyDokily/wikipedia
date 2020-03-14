@@ -17,3 +17,7 @@
   background-color: lightskyblue;
   border: 1px solid grey;
 }
+
+.featured,.news {
+  margin: 5px;
+}
