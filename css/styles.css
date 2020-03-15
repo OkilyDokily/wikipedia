@@ -55,7 +55,10 @@
 #otherareas .grey
 {
   
-  background-color: grey;
+  background-color: lightgrey;
   border: 1px solid grey;
   margin-top: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-indent: 5px;
 }
