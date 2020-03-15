@@ -27,3 +27,10 @@
   border: 1px solid grey;
   margin-top: 5px;
 }
+
+.featured-picture {
+  background-color: #ffbdb6 ;
+}
+.clearfix {
+  overflow: auto;
+}
