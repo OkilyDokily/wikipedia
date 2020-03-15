@@ -2,8 +2,6 @@
   padding: 0;
 }
 
-
-
 .welcome h3 {
   margin-top: 5px;
 }
@@ -22,4 +20,10 @@
 
 .featured,.news {
   margin: 5px;
+}
+
+.featured-picture p:first-child {
+  background-color: lightpink;
+  border: 1px solid grey;
+  margin-top: 5px;
 }
