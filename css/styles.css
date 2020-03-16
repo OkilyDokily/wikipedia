@@ -109,6 +109,7 @@ div.account li{
 .container.main {
   width: 90%;
   float: right;
+  margin-right: 20px;
   
 }
 
@@ -143,7 +144,9 @@ div.row.featured-news {
 }
 
 .search-bar {
- height: 10px;
+ height: 22px;
+ margin-top: 3px;
+ width: 300px;
 }
 
 ul.search {
@@ -168,6 +171,5 @@ ul.search {
 {
     /* adjust padding for height*/
     padding-top: 4px; 
-    padding-bottom: 4px;
-   
+    padding-bottom: 4px;  
 }
