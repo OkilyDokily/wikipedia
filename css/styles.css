@@ -79,3 +79,11 @@
 .sister-div .clearfix {
   margin-bottom: 10px;
 }
+
+#wikidata-description {
+  margin-left: 13px;
+}
+
+#wikinews-description {
+  margin-left: 9px;
+}
