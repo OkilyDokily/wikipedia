@@ -176,4 +176,7 @@ ul.search {
 
 div.main-body {
   border-left: grey solid 1px;
+  border-right: grey solid 1px;
+  border-bottom: grey solid 1px;
+  padding: 30px;
 }
