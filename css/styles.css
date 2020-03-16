@@ -62,3 +62,7 @@
   padding-bottom: 3px;
   text-indent: 5px;
 }
+
+.description-div {
+  float:right;
+}
