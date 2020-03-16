@@ -21,7 +21,7 @@
 }
 
 .featured,.news {
-  margin: 5px;
+ 
 }
 
 .featured-picture > p:first-child {
@@ -51,12 +51,15 @@
   display:flex;
   flex-direction: column;
   justify-content: center;
-  height:100%
+  height:100%;
+  margin-right: 0px;
+  
 }
 
 .description-div {
   float:left;
   margin-left: 25px;
+  
 }
 
 .sister-div img {
