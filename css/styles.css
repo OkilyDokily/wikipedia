@@ -21,7 +21,8 @@
 }
 
 .featured,.news {
- 
+  padding: 10px;
+  
 }
 
 .featured-picture > p:first-child {
