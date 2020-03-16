@@ -149,3 +149,11 @@ div.row.featured-news {
 ul.search {
  float:right;
 }
+
+.complete-list-of-wikipedias {
+  text-align: center;
+}
+
+#other-areas {
+  padding-left: 0px;
+}
