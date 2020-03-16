@@ -1,5 +1,7 @@
 .well {
   padding: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .welcome h3 {
@@ -100,7 +102,11 @@ div.account li{
 }
 
 .container.main {
-  width: 85%;
+  width: 90%;
   float: right;
   
+}
+
+div.blue-border{
+  border-left: lightblue solid 1px;
 }
