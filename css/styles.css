@@ -143,7 +143,7 @@ div.row.featured-news {
 }
 
 .search-bar {
-  margin: 10px 10px;
+ height: 10px;
 }
 
 ul.search {
@@ -162,4 +162,12 @@ ul.search {
   margin-top: 4px;
   border: solid grey 0.5px;
   padding: 5px;
+}
+
+.nav-tabs > li > a
+{
+    /* adjust padding for height*/
+    padding-top: 4px; 
+    padding-bottom: 4px;
+   
 }
