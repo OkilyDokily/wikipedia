@@ -87,7 +87,7 @@
 }
 
 div.account {
-  height: 30px;
+  height: 40px;
 }
 
 div.account ul{
@@ -97,4 +97,10 @@ div.account ul{
 div.account li{
   float: left;
   padding: 4px;
+}
+
+.container.main {
+  width: 85%;
+  float: right;
+  
 }
