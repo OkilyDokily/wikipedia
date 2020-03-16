@@ -145,3 +145,7 @@ div.row.featured-news {
 .search-bar {
   margin: 10px 10px;
 }
+
+ul.search {
+ float:right;
+}
