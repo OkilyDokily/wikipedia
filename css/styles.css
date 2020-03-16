@@ -71,3 +71,11 @@
 .sister-div img {
   float:left
 }
+
+.sister-div p {
+  margin-bottom: 3px;
+}
+
+.sister-div .clearfix {
+  margin-bottom: 10px;
+}
