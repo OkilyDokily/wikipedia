@@ -157,3 +157,9 @@ ul.search {
 #other-areas {
   padding-left: 0px;
 }
+
+.grey-labels-div  {
+  margin-top: 4px;
+  border: solid grey 0.5px;
+  padding: 5px;
+}
