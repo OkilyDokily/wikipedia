@@ -114,3 +114,13 @@ div.account li{
 div.blue-border{
   border-left: lightblue solid 1px;
 }
+
+div.col-md-7 {
+  padding-left: 0px;
+  padding-right: 1px
+}
+
+div.col-md-5{
+  padding-right: 0px;
+  padding-left: 1px;
+}
