@@ -64,5 +64,10 @@
 }
 
 .description-div {
-  float:right;
+  float:left;
+  margin-left: 25px;
+}
+
+.sister-div img {
+  float:left
 }
