@@ -110,6 +110,7 @@ div.account li{
   width: 90%;
   float: right;
   margin-right: 20px;
+  padding-left: 0px;
   
 }
 
@@ -175,8 +176,8 @@ ul.search {
 }
 
 div.main-body {
-  border-left: grey solid 1px;
-  border-right: grey solid 1px;
-  border-bottom: grey solid 1px;
+  border-left: lightblue solid 1px;
+  border-right: lightblue solid 1px;
+  border-bottom: lightblue solid 1px;
   padding: 30px;
 }
