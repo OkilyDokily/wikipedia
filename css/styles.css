@@ -128,3 +128,11 @@ div.col-md-5{
 .sister-projections-container{
   width:100%;
 }
+
+div.bg-success.featured {
+  height: 100%;
+}
+
+div.col-md-7.flex{
+  height: 644px;
+}
