@@ -136,3 +136,7 @@ div.bg-success.featured {
 div.col-md-7.flex{
   height: 644px;
 }
+
+div.row.featured-news {
+  margin-bottom: 4px;;
+}
