@@ -180,4 +180,5 @@ div.main-body {
   border-right: lightblue solid 1px;
   border-bottom: lightblue solid 1px;
   padding: 30px;
+  width: 100%;
 }
