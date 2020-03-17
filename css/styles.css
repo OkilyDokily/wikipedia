@@ -8,9 +8,14 @@
 div.welcome {
   text-align: center;
 }
+div.welcome p {
+  margin-bottom: 0px;
+  font-size: 15px;
+}
 
 div.welcome h3 {
   margin-top: 5px;
+  font-size: 22px;
 }
 
 .featured p:nth-of-type(odd) {
