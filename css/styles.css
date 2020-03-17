@@ -189,7 +189,11 @@ div.header-container {
 }
 
 div.footer {
-  padding:15px;
+  
+  width: 100%;
+}
+div.bottom {
+  
   width: 100%;
 }
 
@@ -226,6 +230,11 @@ body {
   margin-right: 10px;
   padding-right: 10px;
 }
+
+.bottom-column.col-md-7{
+  padding-left: 15px;
+}
+
 
 
 
