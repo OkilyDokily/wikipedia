@@ -227,3 +227,10 @@ body {
   padding-right: 10px;
 }
 
+p.bottom {
+  float:left;
+}
+
+div.buttons {
+  float:right;
+}
