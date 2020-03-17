@@ -5,7 +5,11 @@
   margin-top: 30px;
 }
 
-.welcome h3 {
+div.welcome {
+  text-align: center;
+}
+
+div.welcome h3 {
   margin-top: 5px;
 }
 
