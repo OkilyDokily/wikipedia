@@ -147,7 +147,7 @@ div.row.featured-news {
 .search-bar {
  height: 22px;
  margin-top: 3px;
- width: 300px;
+ width: 250px;
 }
 
 ul.search {
@@ -179,6 +179,11 @@ div.main-body {
   border-left: lightblue solid 1px;
   border-right: lightblue solid 1px;
   border-bottom: lightblue solid 1px;
-  padding: 30px;
+ 
   width: 100%;
+}
+
+div.header-container {
+  width:100%;
+ 
 }
