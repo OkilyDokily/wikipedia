@@ -108,8 +108,8 @@ div.account li{
 
 .container.main {
   width: 90%;
-  
-  margin-right: 20px;
+  padding-right: 0px;
+  margin-right: 0px;
   padding-left: 0px;
   
 }
@@ -177,13 +177,24 @@ ul.search {
 
 div.main-body {
   border-left: lightblue solid 1px;
-  border-right: lightblue solid 1px;
-  border-bottom: lightblue solid 1px;
- 
   width: 100%;
+  
 }
 
 div.header-container {
   width:100%;
  
+}
+
+div.footer {
+  padding:15px;
+  width: 100%;
+}
+
+div.footer-container{
+  margin-right: 0;
+}
+
+div.main-body-padding{
+  padding: 25px;
 }
