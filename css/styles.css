@@ -111,6 +111,7 @@ div.account li{
   padding-right: 0px;
   margin-right: 0px;
   padding-left: 0px;
+  background-color: white;;
   
 }
 
@@ -184,7 +185,7 @@ div.main-body {
 
 div.header-container {
   width:100%;
- 
+  background-color: #F5F5F5;
 }
 
 div.footer {
@@ -192,8 +193,11 @@ div.footer {
   width: 100%;
 }
 
-div.footer-container{
-  margin-right: 0;
+div.container.footer-container{
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: #F5F5F5y;
+  width: 100%;
 }
 
 div.main-body-padding{
@@ -207,4 +211,8 @@ div.account.row{
 
 div#navigation.row {
   padding-right: 15px;
+}
+
+body {
+  background-color: #F5F5F5;
 }
