@@ -177,6 +177,7 @@ ul.search {
 
 div.main-body {
   border-left: lightblue solid 1px;
+  border-bottom: lightblue solid 1px;
   width: 100%;
   
 }
@@ -197,4 +198,13 @@ div.footer-container{
 
 div.main-body-padding{
   padding: 25px;
+  padding-top: 0px;
+}
+
+div.account.row{
+  padding-right: 12px;
+}
+
+div#navigation.row {
+  padding-right: 15px;
 }
