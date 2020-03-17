@@ -138,7 +138,7 @@ div.bg-success.featured {
 }
 
 div.col-md-7.flex{
-  height: 644px;
+  height: 664px;
 }
 
 div.row.featured-news {
@@ -238,6 +238,10 @@ body {
 .footer-container {
   padding-top: 15px;
   padding-bottom:15px;
+}
+
+div.row.sister-row{
+  padding-left: 30px;
 }
 
 
