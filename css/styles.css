@@ -222,15 +222,10 @@ body {
   
 }
 
-.footer-container p.bottom small a{
+.bottom.row p a{
   margin-right: 10px;
   padding-right: 10px;
 }
 
-p.bottom {
-  float:left;
-}
 
-div.buttons {
-  float:right;
-}
+
