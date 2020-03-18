@@ -287,3 +287,7 @@ div.sidebar{
   float:left;
 }
 
+div.container.main{
+  float:right;
+}
+
