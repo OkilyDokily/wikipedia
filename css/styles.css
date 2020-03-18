@@ -147,7 +147,7 @@ div.bg-success.featured {
 }
 
 div.col-md-7.flex{
-  height: 664px;
+  height: 677px;
 }
 
 div.row.featured-news {
@@ -305,6 +305,10 @@ div.topics{
   margin-top: 10px;
 }
 
+#recent-deaths {
+  padding-left: 0;
+}
+
 #recent-deaths li{
   float: left;
   margin-right: 25px;
@@ -313,11 +317,15 @@ div.topics{
 #recent-deaths li:first-of-type {
   list-style: none;
   font-weight: bold;
-  margin-right: 5px;
+  margin-right: 7px;
 }
 
 
 #recent-deaths li:nth-of-type(2) {
+  list-style: none; 
+}
+
+#recent-deaths li:nth-of-type(5) {
   list-style: none;
   
 }
