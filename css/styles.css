@@ -269,4 +269,18 @@ div.wikipedia-logo {
   background-image: url("/img/wiki-background.png");
 }
 
+div.sidebar p {
+  margin: 0;
+  font-size: 12px;
+  text-align: left;
+}
+
+div.sidebar > div {
+  margin-top: 50px;
+}
+
+div.sidebar hr {
+  margin:4px;
+}
+
 
