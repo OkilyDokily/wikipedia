@@ -281,6 +281,7 @@ div.sidebar hr {
 
 div.sidebar .sidebar-header {
   color: grey;
+  margin-top: 10px;
 }
 
 div.sidebar{
@@ -289,5 +290,14 @@ div.sidebar{
 
 div.container.main{
   float:right;
+}
+
+div#sidebar-padding {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+div.wikipedia-logo {
+  margin: auto;
 }
 
