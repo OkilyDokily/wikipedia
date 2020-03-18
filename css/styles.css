@@ -260,8 +260,13 @@ div.row.sister-row{
 }
 
 div.sidebar {
-  float: left;
+ float: left;
 }
 
+div.wikipedia-logo {
+  width: 135px;
+  height: 155px;
+  background-image: url("/img/wiki-background.png");
+}
 
 
