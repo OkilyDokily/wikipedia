@@ -259,6 +259,9 @@ div.row.sister-row{
   text-indent: 5px;
 }
 
+div.sidebar {
+  float: left;
+}
 
 
 
