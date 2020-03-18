@@ -259,10 +259,6 @@ div.row.sister-row{
   text-indent: 5px;
 }
 
-div.sidebar {
- float: left;
-}
-
 div.wikipedia-logo {
   width: 135px;
   height: 155px;
@@ -283,4 +279,11 @@ div.sidebar hr {
   margin:4px;
 }
 
+div.sidebar .sidebar-header {
+  color: grey;
+}
+
+div.sidebar{
+  float:left;
+}
 
