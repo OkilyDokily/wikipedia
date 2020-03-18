@@ -304,3 +304,20 @@ div.wikipedia-logo {
 div.topics{
   margin-top: 10px;
 }
+
+#recent-deaths li{
+  float: left;
+  margin-right: 25px;
+}
+
+#recent-deaths li:first-of-type {
+  list-style: none;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+
+#recent-deaths li:nth-of-type(2) {
+  list-style: none;
+  
+}
