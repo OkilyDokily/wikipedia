@@ -1,3 +1,18 @@
+
+body{
+  width: 1583px;
+}
+
+.container.main {
+  display: flow-root;
+  width: 90%;
+  padding-right: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  background-color: white;
+}
+
+
 .well {
   padding: 0;
   padding-top: 15px;
@@ -115,14 +130,6 @@ div.account li{
   padding: 4px;
 }
 
-.container.main {
-  width: 90%;
-  padding-right: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  background-color: white;;
-  
-}
 
 div.blue-border{
   border-left: lightblue solid 1px;
@@ -259,45 +266,7 @@ div.row.sister-row{
   text-indent: 5px;
 }
 
-div.wikipedia-logo {
-  width: 135px;
-  height: 155px;
-  background-image: url("/img/wiki-background.png");
-}
 
-div.sidebar p {
-  margin: 0;
-  font-size: 12px;
-  text-align: left;
-}
-
-div.sidebar > div {
-  margin-top: 50px;
-}
-
-div.sidebar hr {
-  margin:4px;
-}
-
-div.sidebar .sidebar-header {
-  color: grey;
-  margin-top: 10px;
-}
-
-div.sidebar{
-  float:left;
-}
-
-div.container.main{
-    display:flow-root;
-}
-
-
-
-div#sidebar-padding {
-  margin-top: 20px;
-  padding: 20px;
-}
 
 div.wikipedia-logo {
   margin: auto;
@@ -330,4 +299,40 @@ div.topics{
 #recent-deaths li:nth-of-type(5) {
   list-style: none;
   
+}
+
+
+div.wikipedia-logo {
+  width: 135px;
+  height: 155px;
+  background-image: url("/img/wiki-background.png");
+}
+
+div.sidebar p {
+  margin: 0;
+  font-size: 12px;
+  text-align: left;
+}
+
+div.sidebar > div {
+  margin-top: 50px;
+}
+
+div.sidebar hr {
+  margin:4px;
+}
+
+div.sidebar .sidebar-header {
+  color: grey;
+  margin-top: 10px;
+}
+
+div.sidebar{
+  float:left;
+}
+
+
+div#sidebar-padding {
+  margin-top: 20px;
+  padding: 20px;
 }
