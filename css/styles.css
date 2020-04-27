@@ -289,8 +289,10 @@ div.sidebar{
 }
 
 div.container.main{
-  float:right;
+    display:flow-root;
 }
+
+
 
 div#sidebar-padding {
   margin-top: 20px;
